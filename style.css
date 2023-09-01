@@ -125,4 +125,8 @@ nav ul li a:hover {
         width: 80%;
     }
 
+    nav ul.slide{
+        transform: translateX(0);
+    }
+
 }
